@@ -29,27 +29,27 @@ Updown is meant to be a private server, which users can run locally, on a home s
    <div align="center"><b>Adding Folders</b></div>
     <div align="center">
       <p align="center">
-        <img src="./EXAMPLES/addingFolders.gif" alt="Adding Folder" width="550px" />
+        <img src="./EXAMPLES/addingFolders.gif" alt="Adding Folder" width="750px" />
       </p>
     </div>
 
    <div align="center"><b>Adding Files</b></div>
     <div align="center">
       <p align="center">
-        <img src="./EXAMPLES/addingFiles.gif" alt="Adding Files" width="550px" />
+        <img src="./EXAMPLES/addingFiles.gif" alt="Adding Files" width="750px" />
       </p>
     </div>
 
   <div align="center"><b>Searching Files</b></div>
     <div align="center">
       <p align="center">
-        <img src="./EXAMPLES/searchingFiles.gif" alt="Searching Files" width="550px" />
+        <img src="./EXAMPLES/searchingFiles.gif" alt="Searching Files" width="750px" />
       </p>
     </div>
 
   <div align="center"><b>Deleting Files</b></div>
     <div align="center">
       <p align="center">
-        <img src="./EXAMPLES/deletingFiles.gif" alt="Searching Files" width="550px" />
+        <img src="./EXAMPLES/deletingFiles.gif" alt="Searching Files" width="750px" />
       </p>
     </div>
