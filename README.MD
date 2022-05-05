@@ -20,8 +20,8 @@ Updown is meant to be a private server, which users can run locally, on a home s
 -   Folders for better data organization.
 -   Small and lightweight.
 -   Modern and responsive UI.
--   Simultaneously uploads multiple files.
--   Configurations (changing port,shutdown) can be handled from UI itself.
+-   Simultaneous uploads multiple files.
+-   Configurations (changing port, server shutdown) can be handled from UI itself.
 -   Fast File search for easy file retrievals.
 
 ## 🎨 Examples
@@ -53,3 +53,49 @@ Updown is meant to be a private server, which users can run locally, on a home s
         <img src="./EXAMPLES/deletingFiles.gif" alt="Searching Files" width="750px" />
       </p>
     </div>
+
+## 🕺 Install and Run
+
+> **_NOTE:_** Developed and tested on NODE v12.22.12.
+
+<br>
+
+clone updown using `git`
+
+```bash
+$ git clone https://ashwin-codes/updown.git
+$ cd updown
+```
+
+build and run using `npm`:
+
+```bash
+$ npm install
+$ npm run build
+$ npm start
+```
+
+> **_NOTE:_** Linux users can also run setup.sh to build and run.
+
+```bash
+$ chmod +x setup.sh
+$ ./setup.sh
+```
+
+## 💻 Develop
+
+<br>
+start Backend `node` development server :
+
+```bash
+$ sudo npm install nodemon -g
+$ cd server
+$ nodemon server
+```
+
+start Frontend `react` development server:
+
+```bash
+$ cd client
+$ nom server
+```
